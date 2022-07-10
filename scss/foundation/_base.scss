@@ -882,6 +882,7 @@ header .drawer {
             width: 80%;
             font-weight: normal;
             margin-top: 1rem;
+            line-height: 1.5;
          }
       }
    }
@@ -1056,7 +1057,7 @@ header .drawer {
 .business03 {
    margin-bottom: 22rem;
    &_wrap {
-      background-image: url(../../img/business_3bg.png);
+      background-image: url(../img/business_3bg.png);
       background-size: cover;
       color: $cBlack;
       padding: 2.8rem;
@@ -1719,7 +1720,7 @@ header .drawer {
       top: 0;
       left: 0;
       z-index: 50;
-      background-image: url(../../img/bg.png);
+      background-image: url(../img/bg.png);
       background-size: cover;
       text-align: center;
       flex-direction: column;
