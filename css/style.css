@@ -104,7 +104,7 @@ body {
   line-height: 1.5;
   letter-spacing: 1.2px;
   color: #fff;
-  background-image: url(../../img/bg.png);
+  background-image: url(../img/bg.png);
   background-size: cover;
 }
 
@@ -336,7 +336,7 @@ header .drawer {
 .business_wrap {
   font-family: "Noto Sans JP", sans-serif;
   width: 100%;
-  background-image: url(../../img/business_bg.png);
+  background-image: url(../img/business_bg.png);
   background-size: cover;
   padding-bottom: 10rem;
 }
@@ -427,7 +427,7 @@ header .drawer {
   height: 39rem;
   top: 0;
   left: 0;
-  background-image: url(../../img/recruit_img1.jpg);
+  background-image: url(../img/recruit_img1.jpg);
   background-size: cover;
 }
 .recruit_box::after {
@@ -437,7 +437,7 @@ header .drawer {
   height: 39rem;
   top: 0;
   right: 0;
-  background-image: url(../../img/recruit_img2.jpg);
+  background-image: url(../img/recruit_img2.jpg);
   background-size: cover;
 }
 .recruit_box .sec_ttl {
@@ -830,7 +830,7 @@ header .drawer {
 }
 .what03_box::before {
   content: "";
-  width: 160%;
+  width: 140%;
   height: 45rem;
   border: 1px solid #fff;
   position: absolute;
@@ -839,7 +839,7 @@ header .drawer {
 }
 .what03_box::after {
   content: "";
-  width: 160%;
+  width: 140%;
   height: 45em;
   border: 1px solid #fff;
   position: absolute;
@@ -1291,7 +1291,7 @@ header .drawer {
 }
 .contact .contact_form_box {
   width: 65%;
-  height: 3.4rem;
+  height: 5.5rem;
   font-size: 1.7rem;
 }
 .contact .contact_box {
