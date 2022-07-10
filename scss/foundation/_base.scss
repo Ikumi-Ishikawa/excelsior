@@ -1725,7 +1725,7 @@ header .drawer {
       text-align: center;
       flex-direction: column;
       .nav_list {
-         padding: 15%;
+         padding: 10%;
          display: inline-block;
          li {
             position: relative;
@@ -1733,7 +1733,7 @@ header .drawer {
             border-bottom: 2px solid $cGreen;
             a {
                line-height: 1;
-               font-size: 5rem;
+               font-size: 3.5rem;
                color: $cWhite;
                font-family: $font-ti;
                font-weight: bold;
@@ -1792,7 +1792,7 @@ header .drawer {
          box-sizing: border-box;
          li {
             a {
-               font-size: 30px;
+               font-size: 25px;
                line-height: 1.5;
             }
          }

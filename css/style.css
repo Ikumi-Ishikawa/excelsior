@@ -1717,7 +1717,7 @@ header .drawer {
     flex-direction: column;
   }
   header .header_nav .nav_list {
-    padding: 15%;
+    padding: 10%;
     display: inline-block;
   }
   header .header_nav .nav_list li {
@@ -1727,7 +1727,7 @@ header .drawer {
   }
   header .header_nav .nav_list li a {
     line-height: 1;
-    font-size: 5rem;
+    font-size: 3.5rem;
     color: #fff;
     font-family: "Tillana", cursive;
     font-weight: bold;
@@ -1780,7 +1780,7 @@ header .drawer {
     box-sizing: border-box;
   }
   header .header_nav .nav_list li a {
-    font-size: 30px;
+    font-size: 25px;
     line-height: 1.5;
   }
   body.nav-open header .drawer {
