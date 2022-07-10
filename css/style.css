@@ -1717,7 +1717,7 @@ header .drawer {
     flex-direction: column;
   }
   header .header_nav .nav_list {
-    padding: 20%;
+    padding: 15%;
     display: inline-block;
   }
   header .header_nav .nav_list li {
@@ -1776,7 +1776,7 @@ header .drawer {
     height: 35px;
   }
   header .header_nav .nav_list {
-    padding: 12rem 20%;
+    padding: 8rem 20%;
     box-sizing: border-box;
   }
   header .header_nav .nav_list li a {
